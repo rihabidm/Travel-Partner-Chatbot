@@ -5,7 +5,7 @@ import uuid
 import chromadb
 from sentence_transformers import SentenceTransformer
 from typing import List, Dict
-GROQ_API_KEY="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"
+GROQ_API_KEY=""
 
 class NLPService:
     def __init__(self):
