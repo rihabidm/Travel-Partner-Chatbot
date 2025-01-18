@@ -1,3 +1,3 @@
 # Travel-Partner-Chatbot
 
-Checkout the *Master Branch* !
+Checkout the ##Master Branch## !
