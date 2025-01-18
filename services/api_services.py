@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-SERPER_API_KEY = "9f129e7be4f3385e5e1d2db817f344e7451de290"
-FOURSQUARE_API_KEY = "fsq3iDsC2pCBpIsX6boS2vJzvADc1HeHmBFHRXFOE/+ujzU="
-OPENWEATHER_API_KEY = "4f810fbc16783e4a18cfe46cdf064876"
+SERPER_API_KEY = ""
+FOURSQUARE_API_KEY = ""
+OPENWEATHER_API_KEY = ""
 
 def get_destination_recommendations(destination):
     """
