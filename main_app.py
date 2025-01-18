@@ -9,7 +9,7 @@ from services.nlp_services import ConversationMemory, NLPService
 from pages.chatbot_page import chatbot_page
 from dotenv import load_dotenv
 
-GROQ_API_KEY="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"
+GROQ_API_KEY=""
 
 def display_recommendations(recommendations):
     if recommendations:
